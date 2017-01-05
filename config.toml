@@ -1,6 +1,6 @@
 baseurl = "http://rachelhallieart/"
 languageCode = "en-us"
-title = "Rachel Hallie Art
+title = "Rachel Hallie Art"
 newContentEditor = "nano"
 theme = "nofancy"
 pygmentsStyle = "native"
