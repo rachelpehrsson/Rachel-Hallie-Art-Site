@@ -1,19 +1,19 @@
-BaseUrl= "https://yoursite.example.com/"
+BaseUrl= "http://rachelhallieart.com"
 LanguageCode= "fr-FR"
 Title= "Rachel Hallie Art and Design"
 paginate = 5
-DisqusShortname = "YOUR_SHORT_NAME_HERE"
+#DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2015"
 canonifyurls = true
-
+theme = "casper"
 [params]
-  description = "Welcome to my website"
+  description = "Traditional art meets modern design"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/grandiant background.png"
+  cover = "images/gradiant background.png"
   author = "Rachel Pehrsson"
   authorlocation = "Charlottesville, VA"
   #authorwebsite = "http://vjeantet.fr"
-  authorbio= "my bio"
+  #authorbio= "my bio"
   logo = ""
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
@@ -34,31 +34,19 @@ canonifyurls = true
     twitter = "your_twitter"
 
 [[menu.main]]
-  name = "My Blog"
-  weight = -120
+  name = "Programming Site"
+  weight = -100
   identifier = "blog"
-  url = "/"
+  url = "http://people.virginia.edu/~rhp8rg/"
 
-[[menu.main]]
-  name = "About me"
-  weight = -110
-  identifier = "about"
-  url = "/about"
-
-[[menu.main]]
-  name = "Design Work"
-  weight = -120
-  identifier = "blog"
-  url = "/"
-
-[[menu.main]]
-  name = "Paintings"
-  weight = -120
-  identifier = "paintings"
-  url = "/"
+# [[menu.main]]
+ # name = "About me"
+ # weight = -110
+ # identifier = "about"
+ # url = "about/"
 
 [[menu.main]]
   name = "Contact/Commission"
-  weight = -110
-  identifier = "C"
-  url = "/"
+  weight = -140
+  identifier = "contact"
+  url = "contact/"

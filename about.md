@@ -1,12 +1,12 @@
 +++
-categories = ["misc"]
-date = "2015-11-05T16:58:58-05:00"
-title = "About Me"
-
+date = "2017-01-04T22:42:03-05:00"
+draft = false
+title = "About the Artist"
+layout = "cover"
+ [menu.main] weight = 111
 +++
-Hello and welcome to my site!
 
-## A Bit About Me
+Rachel Hallie Pehrsson is an undergraduate at the University of Virginia, majoring in Studio Art with a concentration in painting and Computer Science.
 
-I like alpacas and I'm a fan of static sites.
+ 
 
