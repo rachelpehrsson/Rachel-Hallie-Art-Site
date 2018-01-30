@@ -5,7 +5,7 @@ date = "2018-01-07T17:15:55-05:00"
 draft = false
 type = "page"
 layout = "cover"
-image = "images/gradiant background.png"
+image = "images/loungesinger.png"
 menu = "main"
 weight = "-100"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
@@ -17,6 +17,26 @@ title = "Paintings and Drawings"
 <hr>
 <!-- Slideshow container -->
 <div class="slideshow-container">
+
+
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://preview.ibb.co/eXH5eR/profilecolorlarge.png" style="width:700px;height:700px;">
+    <div class="text" style = "text-align:center">Indhu, Acrylic Ink on Canvas</div>
+  </div>
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/jxhP66/loungesinger.png" style="width:100%;">
+    <div class="text" style = "text-align:center">The Lounge Singer, Acrylic Ink on Canvas</div>
+  </div>
+
+  <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/gN8Htm/piandkrishna.png" style="width:100%">
+    <div class="text" style = "text-align:center">Pi and Krishna, Acrylic Ink on Canvas</div>
+  </div>
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">

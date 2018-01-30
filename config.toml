@@ -9,7 +9,7 @@ theme = "casper"
 [params]
   description = "Traditional art meets modern design"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "https://78.media.tumblr.com/94b7f7754b3740643812d23c6efa8e6f/tumblr_p2rygx6I411r25owmo1_540.png"
+  cover = "images/profilecolorlarge.png"
   author = "Rachel Pehrsson"
   authorlocation = "Charlottesville, VA"
   #authorwebsite = "http://vjeantet.fr"
