@@ -12,7 +12,7 @@
 
     <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" /></a>
+            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" style="width:100px;height:80px;"/></a>
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
@@ -24,8 +24,16 @@
             {{end}}
         {{end}}
     </nav>
+
     <div class="vertical">
+
         <div class="main-header-content inner">
+
+          <!--<img class="w3-circle" src="https://image.ibb.co/gGpOSR/faceinblue.png" alt="Responsive image" style="border: #000000 6px outset;width:20%; height:45%; float:centers">
+<br>
+<br>
+<br>
+-->
             {{ partial "social.html" . }}
             <h1 class="page-title">{{ .Site.Title }}</h1>
             <h2 class="page-description">{{ .Site.Params.description }}</h2>

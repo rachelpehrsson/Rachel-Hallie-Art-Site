@@ -1,6 +1,6 @@
-BaseUrl= "http://rachelhallieart.com"
+BaseUrl= "localhost:1313"
 LanguageCode= "fr-FR"
-Title= "Rachel Hallie Art and Design"
+Title= "Rachel Hallie Art"
 paginate = 5
 #DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2015"
@@ -9,12 +9,12 @@ theme = "casper"
 [params]
   description = "Traditional art meets modern design"
   metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/gradiant background.png"
+  cover = "https://78.media.tumblr.com/94b7f7754b3740643812d23c6efa8e6f/tumblr_p2rygx6I411r25owmo1_540.png"
   author = "Rachel Pehrsson"
   authorlocation = "Charlottesville, VA"
   #authorwebsite = "http://vjeantet.fr"
   #authorbio= "my bio"
-  logo = ""
+  logo = "images/logo cropped.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
@@ -35,7 +35,7 @@ theme = "casper"
 
 [[menu.main]]
   name = "Programming Site"
-  weight = -100
+  weight = -140
   identifier = "blog"
   url = "http://people.virginia.edu/~rhp8rg/"
 
@@ -45,8 +45,3 @@ theme = "casper"
  # identifier = "about"
  # url = "about/"
 
-[[menu.main]]
-  name = "Contact/Commission"
-  weight = -140
-  identifier = "contact"
-  url = "contact/"

@@ -10,9 +10,10 @@ menu = "main"
 weight = "-100"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "paintings"
-title = "Paintings"
+title = "Paintings and Drawings"
 +++
-### 2015-2016 
+<hr>
+### 2017 
 <hr>
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -20,22 +21,66 @@ title = "Paintings"
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <!-- <div class="numbertext">1 / 3</div> -->
-    <img src="img1.jpg" style="width:100%">
-    <div class="text" style = "text-align:center">Caption Text</div>
+    <img src="https://78.media.tumblr.com/94b7f7754b3740643812d23c6efa8e6f/tumblr_p2rygx6I411r25owmo1_540.png" style="width:100%">
+    <div class="text" style = "text-align:center">Boxed Intergalactic, Oil on Canvas</div>
   </div>
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">2 / 3</div> -->
-    <img src="img2.jpg" style="width:100%" align=center>
-    <div class="text" style = "text-align:center">Caption Two</div>
+    <img src="https://image.ibb.co/gGpOSR/faceinblue.png" style="width:100%" align=center>
+    <div class="text" style = "text-align:center">Self Portrait Blue, Oil on Canvas</div>
   </div>
+
+<hr>
+### 2016 
+<hr>
 
   <div class="mySlides fade">
     <!--<div class="numbertext">3 / 3</div> -->
-    <img src="img3.jpg" style="width:100%">
-    <div class="text" style = "text-align:center">Caption Three</div>
+    <img src="https://image.ibb.co/kQCP1m/Noir.png" style="width:100%">
+    <div class="text" style = "text-align:center">Noir, Oil on Paper</div>
   </div>
+
+<div class="mySlides fade">
+    <!--<div class="numbertext">3 / 3</div> -->
+    <img src="https://image.ibb.co/bSJsnR/Visceral.png" style="width:100%">
+    <div class="text" style = "text-align:center">Visceral, Guache on Paper</div>
+  </div>
+
+<div class="mySlides fade">
+    <!--<div class="numbertext">3 / 3</div> -->
+    <img src="https://image.ibb.co/miHjKG/Vintage_Intergalactic.png" style="width:100%">
+    <div class="text" style = "text-align:center">Vintage Intergalactic, Guache on Paper</div>
+  </div>
+
+
 <hr>
+### 2015
+<hr>
+
+<div class="mySlides fade">
+    <!--<div class="numbertext">3 / 3</div> -->
+    <img src="https://preview.ibb.co/icj6zG/swan.png" style="width:100%">
+    <div class="text" style = "text-align:center">Swan Sunset, Acrylic on Canvas</div>
+  </div>
+
+<div class="mySlides fade">
+    <!--<div class="numbertext">3 / 3</div> -->
+    <img src="https://image.ibb.co/fjBx6w/plaguedoctor.png"style="width:100%">
+    <div class="text" style = "text-align:center">Plague Doctor, Ink on Paper</div>
+  </div>
+
+
+
+<hr>
+### Earlier 
+<hr>
+
+<div class="mySlides fade">
+    <!--<div class="numbertext">3 / 3</div> -->
+    <img src="https://image.ibb.co/jtFFRw/carolyn.png" style="width:100%">
+    <div class="text" style = "text-align:center">Carolyn, Charcoal on Paper</div>
+  </div>
 
   <!-- Next and previous buttons 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
