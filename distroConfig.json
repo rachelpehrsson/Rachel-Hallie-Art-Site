@@ -1,0 +1,101 @@
+{
+    "Comment": " Static Hosting", 
+    "Logging": {
+        "Bucket": ".s3.amazonaws.com", 
+        "Prefix": "-cf/", 
+        "Enabled": true,
+        "IncludeCookies": false
+    }, 
+    "Origins": {
+        "Quantity": 1,
+        "Items": [
+            {
+                "Id":"-origin",
+                "OriginPath": "", 
+                "CustomOriginConfig": {
+                    "OriginProtocolPolicy": "http-only", 
+                    "HTTPPort": 80, 
+                    "OriginSslProtocols": {
+                        "Quantity": 3,
+                        "Items": [
+                            "TLSv1", 
+                            "TLSv1.1", 
+                            "TLSv1.2"
+                        ]
+                    }, 
+                    "HTTPSPort": 443
+                }, 
+                "DomainName": ".s3-website-.amazonaws.com"
+            }
+        ]
+    }, 
+    "DefaultRootObject": "index.html", 
+    "PriceClass": "PriceClass_All", 
+    "Enabled": true, 
+    "CallerReference": "1517823004",
+    "DefaultCacheBehavior": {
+        "TargetOriginId": "-origin",
+        "ViewerProtocolPolicy": "redirect-to-https", 
+        "DefaultTTL": 1800,
+        "AllowedMethods": {
+            "Quantity": 2,
+            "Items": [
+                "HEAD", 
+                "GET"
+            ], 
+            "CachedMethods": {
+                "Quantity": 2,
+                "Items": [
+                    "HEAD", 
+                    "GET"
+                ]
+            }
+        }, 
+        "MinTTL": 0, 
+        "Compress": true,
+        "ForwardedValues": {
+            "Headers": {
+                "Quantity": 0
+            }, 
+            "Cookies": {
+                "Forward": "none"
+            }, 
+            "QueryString": false
+        },
+        "TrustedSigners": {
+            "Enabled": false, 
+            "Quantity": 0
+        }
+    }, 
+    "ViewerCertificate": {
+        "SSLSupportMethod": "sni-only", 
+        "ACMCertificateArn": "arn:aws:acm:us-east-1:464171569002:certificate/2e25da6e-54fc-4556-b4f0-f4dc2bd0c346", 
+        "MinimumProtocolVersion": "TLSv1", 
+        "Certificate": "arn:aws:acm:us-east-1:464171569002:certificate/2e25da6e-54fc-4556-b4f0-f4dc2bd0c346", 
+        "CertificateSource": "acm"
+    }, 
+    "CustomErrorResponses": {
+        "Quantity": 2,
+        "Items": [
+            {
+                "ErrorCode": 403, 
+                "ResponsePagePath": "/404.html", 
+                "ResponseCode": "404",
+                "ErrorCachingMinTTL": 300
+            }, 
+            {
+                "ErrorCode": 404, 
+                "ResponsePagePath": "/404.html", 
+                "ResponseCode": "404",
+                "ErrorCachingMinTTL": 300
+            }
+        ]
+    }, 
+    "Aliases": {
+        "Quantity": 2,
+        "Items": [
+            "", 
+            "www."
+        ]
+    }
+}

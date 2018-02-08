@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rachel Hallie Art and Design</title>
-    <link>https://yoursite.example.com/tags/</link>
-    <description>Recent content in Tags on Rachel Hallie Art and Design</description>
+    <title>Tags on Rachel Hallie Art</title>
+    <link>http://rachelhallieart.com/tags/</link>
+    <description>Recent content in Tags on Rachel Hallie Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 15:13:23 -0500</lastBuildDate>
     
-	<atom:link href="https://yoursite.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rachelhallieart.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>General</title>
+      <link>http://rachelhallieart.com/tags/general/</link>
+      <pubDate>Tue, 30 Jan 2018 15:13:23 -0500</pubDate>
+      
+      <guid>http://rachelhallieart.com/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://rachelhallieart.com/tags/welcome/</link>
+      <pubDate>Tue, 30 Jan 2018 15:13:23 -0500</pubDate>
+      
+      <guid>http://rachelhallieart.com/tags/welcome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

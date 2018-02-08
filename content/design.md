@@ -5,7 +5,7 @@ date = "2018-01-07T23:43:23-05:00"
 draft = false
 type = "page"
 layout = "cover"
-image = "images/gradiant background.png"
+image = "images/boatheader2.png"
 menu = "main"
 weight = "-110"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
@@ -22,7 +22,7 @@ title = "Design and Animaton"
 	position: relative;
 	display: inline-block;
 	overflow: hidden;
-	max-width: 100%;
+	max-width: 49%;
 	height: auto;
 }
 .hvrbox img {
@@ -82,12 +82,23 @@ title = "Design and Animaton"
 
 <div class="hvrbox">
 <a href="http://silatuva.wordpress.com">
-	<img src="https://image.ibb.co/cdjV1w/image004.png" alt="Mountains" class="hvrbox-layer_bottom">
+	<img src="https://image.ibb.co/cdjV1w/image004.png" alt="Mountains" class="hvrbox-layer_bottom" style="float:left;">
 	<div class="hvrbox-layer_top">
-		<div class="hvrbox-text">Designed the logo and created the Wordpress site for Students for Individual Liberty at UVA.</div>
+		<div class="hvrbox-text">Logo, marketing, and Wordpress site design for Students for Individual Liberty at UVA</div>
 	</div>
 </div>
 
+<div class="hvrbox" style="float:right;">
+<a href="">
+	<img src="https://image.ibb.co/e0MYOx/boat_drawing.png" alt="Mountains" class="hvrbox-layer_bottom" >
+	<div class="hvrbox-layer_top">
+		<div class="hvrbox-text">Marketing and prototype deisgn at the Naval Research Laboratory and Naval Surface Warfare Center</div>
+	</div>
+</div>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/9Fi7ZNZl260">
+</iframe>
 
 <hr>
 

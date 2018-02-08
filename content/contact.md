@@ -20,7 +20,7 @@ title = "Contact/Comission"
 703-232-9698
 
 ##### Email:
-rhp8rg@virginia.edu
+rachel@rachelhallieart.com
 
 
 
