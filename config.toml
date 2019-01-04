@@ -8,10 +8,10 @@ canonifyurls = true
 theme = "casper"
 [params]
   description = "Traditional art meets modern design"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/profilecolorlarge.png"
+  metadescription = "Traditional art meets modern design"
+  cover = "images/profilecolorlarge.jpg"
   author = "Rachel Pehrsson"
-  authorlocation = "Charlottesville, VA"
+  authorlocation = "Lancaster, PA"
   #authorwebsite = "http://vjeantet.fr"
   #authorbio= "my bio"
   logo = "images/logo cropped.png"

@@ -13,6 +13,41 @@ slug = "paintings"
 title = "Paintings and Drawings"
 +++
 <hr>
+### 2018 
+<hr>
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://i.ibb.co/YpJ9g5Z/glittering-gold.png" style="width:100%;">
+    <div class="text" style = "text-align:center">Glittering Gold, Acrylic Fluid on Canvas, 18"24 </div>
+  </div>
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/bTLTGx/thehonourable.png" style="width:100%;">
+    <div class="text" style = "text-align:center">Honourable, Acrylic Fluid on Canvas, 32"40 </div>
+  </div>
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/bX3pB7/roomsforyoungwomen.png" style="width:100%;">
+    <div class="text" style = "text-align:center">Rooms for Young Women, Acrylic Fluid on Canvas, 36"32</div>
+  </div>
+
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/iYwWPS/Midnight.png" style="width:100%;">
+    <div class="text" style = "text-align:center">Midnight Spat, Acrylic Fluid on Canvas</div>
+  </div>
+
+ <div class="mySlides fade">
+    <!-- <div class="numbertext">1 / 3</div> -->
+    <img src="https://image.ibb.co/juLKB7/shadow.png" style="width:100%;">
+    <div class="text" style = "text-align:center">Crying Girl, Acrylic Fluid on Canvas, 12"12</div>
+  </div>
+
+<hr>
 ### 2017 
 <hr>
 <!-- Slideshow container -->
@@ -23,19 +58,19 @@ title = "Paintings and Drawings"
  <div class="mySlides fade">
     <!-- <div class="numbertext">1 / 3</div> -->
     <img src="https://preview.ibb.co/eXH5eR/profilecolorlarge.png" style="width:700px;height:700px;">
-    <div class="text" style = "text-align:center">Indhu, Acrylic Ink on Canvas</div>
+    <div class="text" style = "text-align:center">Indhu, Acrylic Fluids on Canvas, 12"12</div>
   </div>
 
  <div class="mySlides fade">
     <!-- <div class="numbertext">1 / 3</div> -->
     <img src="https://image.ibb.co/jxhP66/loungesinger.png" style="width:100%;">
-    <div class="text" style = "text-align:center">The Lounge Singer, Acrylic Ink on Canvas</div>
+    <div class="text" style = "text-align:center">The Lounge Singer, Acrylic Fluids on Canvas, 16"20</div>
   </div>
 
   <div class="mySlides fade">
     <!-- <div class="numbertext">1 / 3</div> -->
     <img src="https://image.ibb.co/gN8Htm/piandkrishna.png" style="width:100%">
-    <div class="text" style = "text-align:center">Pi and Krishna, Acrylic Ink on Canvas</div>
+    <div class="text" style = "text-align:center">Pi and Krishna, Acrylic Fluids on Canvas, 18"24</div>
   </div>
 
   <!-- Full-width images with number and caption text -->

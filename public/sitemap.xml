@@ -23,7 +23,12 @@
   </url>
   
   <url>
-    <loc>http://rachelhallieart.com/post/post-title/</loc>
+    <loc>http://rachelhallieart.com/post/show/</loc>
+    <lastmod>2018-04-23T13:24:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rachelhallieart.com/post/welcome/</loc>
     <lastmod>2018-01-30T15:13:23-05:00</lastmod>
   </url>
   
@@ -33,14 +38,20 @@
   </url>
   
   <url>
+    <loc>http://rachelhallieart.com/tags/exhibitions/</loc>
+    <lastmod>2018-04-23T13:24:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rachelhallieart.com/tags/general/</loc>
-    <lastmod>2018-01-30T15:13:23-05:00</lastmod>
+    <lastmod>2018-04-23T13:24:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://rachelhallieart.com/post/</loc>
-    <lastmod>2018-01-30T15:13:23-05:00</lastmod>
+    <lastmod>2018-04-23T13:24:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,7 +63,7 @@
   
   <url>
     <loc>http://rachelhallieart.com/tags/</loc>
-    <lastmod>2018-01-30T15:13:23-05:00</lastmod>
+    <lastmod>2018-04-23T13:24:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   

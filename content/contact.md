@@ -11,7 +11,7 @@ weight = "-130"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "contact"
 
-title = "Contact/Comission"
+title = "Contact/Commission"
 +++
 
 #### If you're interested in an art or design commission, or would like to enquire about buying a work, feel free to contact me at the following addresses:

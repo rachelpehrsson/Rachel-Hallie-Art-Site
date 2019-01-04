@@ -11,7 +11,7 @@ weight = "-110"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "design"
 
-title = "Design and Animaton"
+title = "Design and Animation"
 +++
 <style>
 .hvrbox,

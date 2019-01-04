@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Contact/Comission</title>
+      <title>Contact/Commission</title>
       <link>http://rachelhallieart.com/contact/</link>
       <pubDate>Sun, 07 Jan 2018 23:43:23 -0500</pubDate>
       
@@ -29,12 +29,12 @@ Email: rachel@rachelhallieart.com</description>
       <pubDate>Wed, 04 Jan 2017 22:42:03 -0500</pubDate>
       
       <guid>http://rachelhallieart.com/about/</guid>
-      <description>Rachel Hallie Pehrsson is an undergraduate at the University of Virginia, majoring in Studio Art with a concentration in painting and Computer Science.
-She specializes in acrylic and watercolor painting, with additional experience in digital art and design. She has done marketing design work at the Naval Research Laboratory in Washington DC, as well as for her clubs at UVA.</description>
+      <description>Hello, my name is Rachel Hallie Pehrsson! I am an artist and designer currently residing in the lovely city of Lancaster, Pennsylvania. I have a BA Degree in Computer Science and Studio Art from the University of Virginia.
+I specialize in acrylic and watercolor painting, with additional experience in illustration, digital art, and web design.</description>
     </item>
     
     <item>
-      <title>Design and Animaton</title>
+      <title>Design and Animation</title>
       <link>http://rachelhallieart.com/design/</link>
       <pubDate>Sun, 07 Jan 2018 23:43:23 -0500</pubDate>
       
@@ -48,20 +48,34 @@ She specializes in acrylic and watercolor painting, with additional experience i
       <pubDate>Sun, 07 Jan 2018 17:15:55 -0500</pubDate>
       
       <guid>http://rachelhallieart.com/paintings/</guid>
-      <description>2017  1 / 3 -- Indhu, Acrylic Ink on Canvas  1 / 3 -- The Lounge Singer, Acrylic Ink on Canvas 
-1 / 3 -- Pi and Krishna, Acrylic Ink on Canvas 
-1 / 3 -- Boxed Intergalactic, Oil on Canvas 
-2 / 3 -- Self Portrait Blue, Oil on Canvas 
- 2016  3 / 3 -- Noir, Oil on Paper</description>
+      <description>2018  1 / 3 -- Glittering Gold, Acrylic Fluid on Canvas, 18&amp;rdquo;24  
+1 / 3 -- Honourable, Acrylic Fluid on Canvas, 32&amp;rdquo;40  
+1 / 3 -- Rooms for Young Women, Acrylic Fluid on Canvas, 36&amp;rdquo;32 
+1 / 3 -- Midnight Spat, Acrylic Fluid on Canvas 
+1 / 3 -- Crying Girl, Acrylic Fluid on Canvas, 12&amp;rdquo;12 
+ 2017  1 / 3 -- Indhu, Acrylic Fluids on Canvas, 12&#34;</description>
+    </item>
+    
+    <item>
+      <title>Showing Now: 4th Year Exhibition &#39;Neon Noir&#39;</title>
+      <link>http://rachelhallieart.com/post/show/</link>
+      <pubDate>Mon, 23 Apr 2018 13:24:05 -0400</pubDate>
+      
+      <guid>http://rachelhallieart.com/post/show/</guid>
+      <description>An exploration of vibrant colors and dark worlds
+April 23rd-27th
+Ruffin Hall
+179 Culbreth Rd Charlottesville, VA 22903
+Closing Reception Friday, April 23rd-17th 5:30-7:30 pm</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>http://rachelhallieart.com/post/post-title/</link>
+      <link>http://rachelhallieart.com/post/welcome/</link>
       <pubDate>Tue, 30 Jan 2018 15:13:23 -0500</pubDate>
       
-      <guid>http://rachelhallieart.com/post/post-title/</guid>
-      <description>Welcome to my new website, where I will post and document my art! Feel free to contact me if you are interested in comission or purchase.</description>
+      <guid>http://rachelhallieart.com/post/welcome/</guid>
+      <description>Welcome to my new website, where I will post and document my art! Feel free to contact me if you are interested in commission or purchase.</description>
     </item>
     
   </channel>

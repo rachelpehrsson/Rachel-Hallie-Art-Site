@@ -12,9 +12,9 @@ slug = "about"
 
 +++
 
-Rachel Hallie Pehrsson is an undergraduate at the University of Virginia, majoring in Studio Art with a concentration in painting and Computer Science.
+Hello, my name is Rachel Hallie Pehrsson! I am an artist and designer currently residing in the lovely city of Lancaster, Pennsylvania. I have a BA Degree in Computer Science and Studio Art from the University of Virginia. 
 
-She specializes in acrylic and watercolor painting, with additional experience in digital art and design. She has done marketing design work at the Naval Research Laboratory in Washington DC, as well as for her clubs at UVA. 
+I specialize in acrylic and watercolor painting, with additional experience in illustration, digital art, and web design. 
 
  
 

@@ -6,9 +6,9 @@ draft = false
 image = ""
 menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
-slug = "post-title"
+slug = "welcome"
 tags = ["welcome","general"]
 title = "Welcome"
 +++
 
-Welcome to my new website, where I will post and document my art! Feel free to contact me if you are interested in comission or purchase. 
+Welcome to my new website, where I will post and document my art! Feel free to contact me if you are interested in commission or purchase. 
